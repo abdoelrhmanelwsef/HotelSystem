@@ -1,0 +1,183 @@
+H:\ابرار\ITI\Hotel\Hotel\Hotel\bin\Debug\net6.0\appsettings.Development.json
+H:\ابرار\ITI\Hotel\Hotel\Hotel\bin\Debug\net6.0\appsettings.json
+H:\ابرار\ITI\Hotel\Hotel\Hotel\bin\Debug\net6.0\Hotel.exe
+H:\ابرار\ITI\Hotel\Hotel\Hotel\bin\Debug\net6.0\Hotel.deps.json
+H:\ابرار\ITI\Hotel\Hotel\Hotel\bin\Debug\net6.0\Hotel.runtimeconfig.json
+H:\ابرار\ITI\Hotel\Hotel\Hotel\bin\Debug\net6.0\Hotel.dll
+H:\ابرار\ITI\Hotel\Hotel\Hotel\bin\Debug\net6.0\ref\Hotel.dll
+H:\ابرار\ITI\Hotel\Hotel\Hotel\bin\Debug\net6.0\Hotel.pdb
+H:\ابرار\ITI\Hotel\Hotel\Hotel\bin\Debug\net6.0\Humanizer.dll
+H:\ابرار\ITI\Hotel\Hotel\Hotel\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+H:\ابرار\ITI\Hotel\Hotel\Hotel\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+H:\ابرار\ITI\Hotel\Hotel\Hotel\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\ابرار\ITI\Hotel\Hotel\Hotel\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+H:\ابرار\ITI\Hotel\Hotel\Hotel\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+H:\ابرار\ITI\Hotel\Hotel\Hotel\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\ابرار\ITI\Hotel\Hotel\Hotel\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+H:\ابرار\ITI\Hotel\Hotel\Hotel\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+H:\ابرار\ITI\Hotel\Hotel\Hotel\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\ابرار\ITI\Hotel\Hotel\Hotel\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+H:\ابرار\ITI\Hotel\Hotel\Hotel\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+H:\ابرار\ITI\Hotel\Hotel\Hotel\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\ابرار\ITI\Hotel\Hotel\Hotel\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+H:\ابرار\ITI\Hotel\Hotel\Hotel\bin\Debug\net6.0\Microsoft.OpenApi.dll
+H:\ابرار\ITI\Hotel\Hotel\Hotel\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+H:\ابرار\ITI\Hotel\Hotel\Hotel\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\ابرار\ITI\Hotel\Hotel\Hotel\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\ابرار\ITI\Hotel\Hotel\Hotel\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\ابرار\ITI\Hotel\Hotel\Hotel\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+H:\ابرار\ITI\Hotel\Hotel\Hotel\bin\Debug\net6.0\System.Drawing.Common.dll
+H:\ابرار\ITI\Hotel\Hotel\Hotel\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+H:\ابرار\ITI\Hotel\Hotel\Hotel\bin\Debug\net6.0\System.Runtime.Caching.dll
+H:\ابرار\ITI\Hotel\Hotel\Hotel\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+H:\ابرار\ITI\Hotel\Hotel\Hotel\bin\Debug\net6.0\System.Security.Permissions.dll
+H:\ابرار\ITI\Hotel\Hotel\Hotel\bin\Debug\net6.0\System.Windows.Extensions.dll
+H:\ابرار\ITI\Hotel\Hotel\Hotel\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\ابرار\ITI\Hotel\Hotel\Hotel\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\ابرار\ITI\Hotel\Hotel\Hotel\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+H:\ابرار\ITI\Hotel\Hotel\Hotel\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\ابرار\ITI\Hotel\Hotel\Hotel\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\ابرار\ITI\Hotel\Hotel\Hotel\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\ابرار\ITI\Hotel\Hotel\Hotel\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+H:\ابرار\ITI\Hotel\Hotel\Hotel\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+H:\ابرار\ITI\Hotel\Hotel\Hotel\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+H:\ابرار\ITI\Hotel\Hotel\Hotel\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+H:\ابرار\ITI\Hotel\Hotel\Hotel\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+H:\ابرار\ITI\Hotel\Hotel\Hotel\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+H:\ابرار\ITI\Hotel\Hotel\Hotel\obj\Debug\net6.0\Hotel.csproj.AssemblyReference.cache
+H:\ابرار\ITI\Hotel\Hotel\Hotel\obj\Debug\net6.0\Hotel.GeneratedMSBuildEditorConfig.editorconfig
+H:\ابرار\ITI\Hotel\Hotel\Hotel\obj\Debug\net6.0\Hotel.AssemblyInfoInputs.cache
+H:\ابرار\ITI\Hotel\Hotel\Hotel\obj\Debug\net6.0\Hotel.AssemblyInfo.cs
+H:\ابرار\ITI\Hotel\Hotel\Hotel\obj\Debug\net6.0\Hotel.csproj.CoreCompileInputs.cache
+H:\ابرار\ITI\Hotel\Hotel\Hotel\obj\Debug\net6.0\Hotel.MvcApplicationPartsAssemblyInfo.cs
+H:\ابرار\ITI\Hotel\Hotel\Hotel\obj\Debug\net6.0\Hotel.MvcApplicationPartsAssemblyInfo.cache
+H:\ابرار\ITI\Hotel\Hotel\Hotel\obj\Debug\net6.0\staticwebassets.build.json
+H:\ابرار\ITI\Hotel\Hotel\Hotel\obj\Debug\net6.0\staticwebassets.development.json
+H:\ابرار\ITI\Hotel\Hotel\Hotel\obj\Debug\net6.0\scopedcss\bundle\Hotel.styles.css
+H:\ابرار\ITI\Hotel\Hotel\Hotel\obj\Debug\net6.0\Hotel.csproj.CopyComplete
+H:\ابرار\ITI\Hotel\Hotel\Hotel\obj\Debug\net6.0\Hotel.dll
+H:\ابرار\ITI\Hotel\Hotel\Hotel\obj\Debug\net6.0\ref\Hotel.dll
+H:\ابرار\ITI\Hotel\Hotel\Hotel\obj\Debug\net6.0\Hotel.pdb
+H:\ابرار\ITI\Hotel\Hotel\Hotel\obj\Debug\net6.0\Hotel.genruntimeconfig.cache
+D:\Tsks_ITI\Hotel Task\New folder\Hotel\bin\Debug\net6.0\appsettings.Development.json
+D:\Tsks_ITI\Hotel Task\New folder\Hotel\bin\Debug\net6.0\appsettings.json
+D:\Tsks_ITI\Hotel Task\New folder\Hotel\bin\Debug\net6.0\Hotel.exe
+D:\Tsks_ITI\Hotel Task\New folder\Hotel\bin\Debug\net6.0\Hotel.deps.json
+D:\Tsks_ITI\Hotel Task\New folder\Hotel\bin\Debug\net6.0\Hotel.runtimeconfig.json
+D:\Tsks_ITI\Hotel Task\New folder\Hotel\bin\Debug\net6.0\Hotel.dll
+D:\Tsks_ITI\Hotel Task\New folder\Hotel\bin\Debug\net6.0\Hotel.pdb
+D:\Tsks_ITI\Hotel Task\New folder\Hotel\bin\Debug\net6.0\Humanizer.dll
+D:\Tsks_ITI\Hotel Task\New folder\Hotel\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Tsks_ITI\Hotel Task\New folder\Hotel\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Tsks_ITI\Hotel Task\New folder\Hotel\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Tsks_ITI\Hotel Task\New folder\Hotel\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Tsks_ITI\Hotel Task\New folder\Hotel\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Tsks_ITI\Hotel Task\New folder\Hotel\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Tsks_ITI\Hotel Task\New folder\Hotel\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Tsks_ITI\Hotel Task\New folder\Hotel\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Tsks_ITI\Hotel Task\New folder\Hotel\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Tsks_ITI\Hotel Task\New folder\Hotel\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Tsks_ITI\Hotel Task\New folder\Hotel\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Tsks_ITI\Hotel Task\New folder\Hotel\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Tsks_ITI\Hotel Task\New folder\Hotel\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Tsks_ITI\Hotel Task\New folder\Hotel\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Tsks_ITI\Hotel Task\New folder\Hotel\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Tsks_ITI\Hotel Task\New folder\Hotel\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Tsks_ITI\Hotel Task\New folder\Hotel\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Tsks_ITI\Hotel Task\New folder\Hotel\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Tsks_ITI\Hotel Task\New folder\Hotel\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Tsks_ITI\Hotel Task\New folder\Hotel\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Tsks_ITI\Hotel Task\New folder\Hotel\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Tsks_ITI\Hotel Task\New folder\Hotel\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Tsks_ITI\Hotel Task\New folder\Hotel\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Tsks_ITI\Hotel Task\New folder\Hotel\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Tsks_ITI\Hotel Task\New folder\Hotel\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Tsks_ITI\Hotel Task\New folder\Hotel\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Tsks_ITI\Hotel Task\New folder\Hotel\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Tsks_ITI\Hotel Task\New folder\Hotel\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Tsks_ITI\Hotel Task\New folder\Hotel\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Tsks_ITI\Hotel Task\New folder\Hotel\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Tsks_ITI\Hotel Task\New folder\Hotel\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Tsks_ITI\Hotel Task\New folder\Hotel\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Tsks_ITI\Hotel Task\New folder\Hotel\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Tsks_ITI\Hotel Task\New folder\Hotel\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Tsks_ITI\Hotel Task\New folder\Hotel\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Tsks_ITI\Hotel Task\New folder\Hotel\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Tsks_ITI\Hotel Task\New folder\Hotel\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Tsks_ITI\Hotel Task\New folder\Hotel\obj\Debug\net6.0\Hotel.csproj.AssemblyReference.cache
+D:\Tsks_ITI\Hotel Task\New folder\Hotel\obj\Debug\net6.0\Hotel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tsks_ITI\Hotel Task\New folder\Hotel\obj\Debug\net6.0\Hotel.AssemblyInfoInputs.cache
+D:\Tsks_ITI\Hotel Task\New folder\Hotel\obj\Debug\net6.0\Hotel.AssemblyInfo.cs
+D:\Tsks_ITI\Hotel Task\New folder\Hotel\obj\Debug\net6.0\Hotel.csproj.CoreCompileInputs.cache
+D:\Tsks_ITI\Hotel Task\New folder\Hotel\obj\Debug\net6.0\Hotel.MvcApplicationPartsAssemblyInfo.cs
+D:\Tsks_ITI\Hotel Task\New folder\Hotel\obj\Debug\net6.0\Hotel.MvcApplicationPartsAssemblyInfo.cache
+D:\Tsks_ITI\Hotel Task\New folder\Hotel\obj\Debug\net6.0\staticwebassets.build.json
+D:\Tsks_ITI\Hotel Task\New folder\Hotel\obj\Debug\net6.0\staticwebassets.development.json
+D:\Tsks_ITI\Hotel Task\New folder\Hotel\obj\Debug\net6.0\scopedcss\bundle\Hotel.styles.css
+D:\Tsks_ITI\Hotel Task\New folder\Hotel\obj\Debug\net6.0\Hotel.csproj.CopyComplete
+D:\Tsks_ITI\Hotel Task\New folder\Hotel\obj\Debug\net6.0\Hotel.dll
+D:\Tsks_ITI\Hotel Task\New folder\Hotel\obj\Debug\net6.0\refint\Hotel.dll
+D:\Tsks_ITI\Hotel Task\New folder\Hotel\obj\Debug\net6.0\Hotel.pdb
+D:\Tsks_ITI\Hotel Task\New folder\Hotel\obj\Debug\net6.0\Hotel.genruntimeconfig.cache
+D:\Tsks_ITI\Hotel Task\New folder\Hotel\obj\Debug\net6.0\ref\Hotel.dll
+D:\Tsks_ITI\Hotel Task\Back End\Hotel\bin\Debug\net6.0\appsettings.Development.json
+D:\Tsks_ITI\Hotel Task\Back End\Hotel\bin\Debug\net6.0\appsettings.json
+D:\Tsks_ITI\Hotel Task\Back End\Hotel\bin\Debug\net6.0\Hotel.exe
+D:\Tsks_ITI\Hotel Task\Back End\Hotel\bin\Debug\net6.0\Hotel.deps.json
+D:\Tsks_ITI\Hotel Task\Back End\Hotel\bin\Debug\net6.0\Hotel.runtimeconfig.json
+D:\Tsks_ITI\Hotel Task\Back End\Hotel\bin\Debug\net6.0\Hotel.dll
+D:\Tsks_ITI\Hotel Task\Back End\Hotel\bin\Debug\net6.0\Hotel.pdb
+D:\Tsks_ITI\Hotel Task\Back End\Hotel\bin\Debug\net6.0\Humanizer.dll
+D:\Tsks_ITI\Hotel Task\Back End\Hotel\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Tsks_ITI\Hotel Task\Back End\Hotel\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Tsks_ITI\Hotel Task\Back End\Hotel\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Tsks_ITI\Hotel Task\Back End\Hotel\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Tsks_ITI\Hotel Task\Back End\Hotel\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Tsks_ITI\Hotel Task\Back End\Hotel\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Tsks_ITI\Hotel Task\Back End\Hotel\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Tsks_ITI\Hotel Task\Back End\Hotel\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Tsks_ITI\Hotel Task\Back End\Hotel\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Tsks_ITI\Hotel Task\Back End\Hotel\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Tsks_ITI\Hotel Task\Back End\Hotel\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Tsks_ITI\Hotel Task\Back End\Hotel\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Tsks_ITI\Hotel Task\Back End\Hotel\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Tsks_ITI\Hotel Task\Back End\Hotel\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Tsks_ITI\Hotel Task\Back End\Hotel\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Tsks_ITI\Hotel Task\Back End\Hotel\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Tsks_ITI\Hotel Task\Back End\Hotel\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Tsks_ITI\Hotel Task\Back End\Hotel\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Tsks_ITI\Hotel Task\Back End\Hotel\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Tsks_ITI\Hotel Task\Back End\Hotel\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Tsks_ITI\Hotel Task\Back End\Hotel\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Tsks_ITI\Hotel Task\Back End\Hotel\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Tsks_ITI\Hotel Task\Back End\Hotel\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Tsks_ITI\Hotel Task\Back End\Hotel\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Tsks_ITI\Hotel Task\Back End\Hotel\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Tsks_ITI\Hotel Task\Back End\Hotel\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Tsks_ITI\Hotel Task\Back End\Hotel\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Tsks_ITI\Hotel Task\Back End\Hotel\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Tsks_ITI\Hotel Task\Back End\Hotel\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Tsks_ITI\Hotel Task\Back End\Hotel\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Tsks_ITI\Hotel Task\Back End\Hotel\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Tsks_ITI\Hotel Task\Back End\Hotel\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Tsks_ITI\Hotel Task\Back End\Hotel\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Tsks_ITI\Hotel Task\Back End\Hotel\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Tsks_ITI\Hotel Task\Back End\Hotel\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Tsks_ITI\Hotel Task\Back End\Hotel\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Tsks_ITI\Hotel Task\Back End\Hotel\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Tsks_ITI\Hotel Task\Back End\Hotel\obj\Debug\net6.0\Hotel.csproj.AssemblyReference.cache
+D:\Tsks_ITI\Hotel Task\Back End\Hotel\obj\Debug\net6.0\Hotel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tsks_ITI\Hotel Task\Back End\Hotel\obj\Debug\net6.0\Hotel.AssemblyInfoInputs.cache
+D:\Tsks_ITI\Hotel Task\Back End\Hotel\obj\Debug\net6.0\Hotel.AssemblyInfo.cs
+D:\Tsks_ITI\Hotel Task\Back End\Hotel\obj\Debug\net6.0\Hotel.csproj.CoreCompileInputs.cache
+D:\Tsks_ITI\Hotel Task\Back End\Hotel\obj\Debug\net6.0\Hotel.MvcApplicationPartsAssemblyInfo.cs
+D:\Tsks_ITI\Hotel Task\Back End\Hotel\obj\Debug\net6.0\Hotel.MvcApplicationPartsAssemblyInfo.cache
+D:\Tsks_ITI\Hotel Task\Back End\Hotel\obj\Debug\net6.0\staticwebassets.build.json
+D:\Tsks_ITI\Hotel Task\Back End\Hotel\obj\Debug\net6.0\staticwebassets.development.json
+D:\Tsks_ITI\Hotel Task\Back End\Hotel\obj\Debug\net6.0\scopedcss\bundle\Hotel.styles.css
+D:\Tsks_ITI\Hotel Task\Back End\Hotel\obj\Debug\net6.0\Hotel.csproj.CopyComplete
+D:\Tsks_ITI\Hotel Task\Back End\Hotel\obj\Debug\net6.0\Hotel.dll
+D:\Tsks_ITI\Hotel Task\Back End\Hotel\obj\Debug\net6.0\refint\Hotel.dll
+D:\Tsks_ITI\Hotel Task\Back End\Hotel\obj\Debug\net6.0\Hotel.pdb
+D:\Tsks_ITI\Hotel Task\Back End\Hotel\obj\Debug\net6.0\Hotel.genruntimeconfig.cache
+D:\Tsks_ITI\Hotel Task\Back End\Hotel\obj\Debug\net6.0\ref\Hotel.dll
